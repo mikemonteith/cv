@@ -62,6 +62,7 @@
 		<skillset name="platforms">
 			<skill>Magento</skill>
 			<skill>Django</skill>
+			<skill>Amazon Web Services</skill>
 			<skill>Zend</skill>
 			<skill>Wordpress</skill>
 			<skill>PHPUnit</skill>
@@ -86,6 +87,24 @@
 		</skillset>
 	</skills>
 	<experience>
+		<employment from="12/2012" to="present">
+			<title>Technical Developer</title>
+			<company>Movement Digital Ltd.</company>
+			<companyType>Mobile Marketing Agency</companyType>
+			<roles>
+				<roles>Involved in entire development lifecycle from concepting to deployment</roles>
+				<roles>Managing and maintaning various onsite and off-site servers</roles>
+				<roles>
+					Regular demonstrations to tech and non-tech team of new technology or methods
+					at our disposal. Creating demos for the company 'labs' site.
+				</roles>
+				<roles>Building websites to deadlines for clients</roles>
+				<roles>Agile development methodology</roles>
+				<roles>Responsive design</roles>
+				<roles>Extensive cross-device compatibility planning and execution</roles>
+				<roles>Self taught learning during down-time such as Android SDK development</roles>
+			</roles>
+		</employment>
 		<employment from="01/2012" to="11/2012">
 			<title>Junior Developer</title>
 			<company>Couturelab.com and Giftlab.com</company>
