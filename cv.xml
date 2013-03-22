@@ -89,6 +89,7 @@
 		<employment from="01/2012" to="10/2012">
 			<title>Junior Developer</title>
 			<company>Couturelab.com and Giftlab.com</company>
+			<companyType>Online Retail</companyType>
 			<roles>
 				<role>
 					Writing PHP, JavaScript, Linux Shell, MySQL, HTML,
@@ -131,6 +132,7 @@
 		<employment from="10/2007" to="06/2010">
 			<title>Recording Technician</title>
 			<company>Aura Studios, Loughborough University</company>
+			<companyType>Audo Recording Studio</companyType>
 			<roles>
 				<role>Recording various groups or individual artists</role>
 				<role>Use of many industry standard audio recording programs</role>
@@ -142,6 +144,7 @@
 		<internship from="06/2009" to="09/2009">
 			<title>Research and Development Intern</title>
 			<company>Decagon Devices (USA)</company>
+			<companyType>Scientific Instrumentation Designers and Manufacturer</companyType>
 			<roles>
 				<role>Improving the firmware for thermal conductivity sensor (KD2-pro)</role>
 				<role>
