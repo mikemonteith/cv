@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+	<personal>
+		<contactDetails>
+			<email>mike@mikemonteith.com</email>
+			<telephone>+44 (0) 7741272176</telephone>
+			<website>http://mikemonteith.com</website>
+		</contactDetails>
+		<location>London, UK</location>
+		<dateOfBirth>
+			<day>22</day>
+			<month>08</month>
+			<year>1989</year>
+		</dateOfBirth>
+		<interests>
+    			<interest>Photography</interest>
+			<interest>Music</interest>
+			<interest>Travel</interest>
+			<interest>Open Source projects</interest>
+		</interests>
+	</personal>
+	<qualifications>
+		<university from="2007" to="2010" institution="Loughborough University, UK">
+			<qualification type="B.Sc" subject="Physics" grade="2:1 (Honours)" />
+		</university>
+		<furtherEducation from="2005" to="2007" institution="Magnus CofE School">
+			<qualification type="A level" subject="Physics" grade="B" />
+			<qualification type="A level" subject="Mathematics" grade="B" />
+			<qualification type="A level" subject="Music Technology" grade="C" />
+			<qualification type="A level" subject="Further Mathematics" grade="D" />
+		</furtherEducation>
+		<highSchool from="2003" to="2005" institution="Magnus CofE School">
+			<qualification type="GCSE" subject="Mathematics" grade="A" />
+			<qualification type="GCSE (double award)" subject="Science" grade="A" />
+			<qualification type="GCSE" subject="Graphic Design" grade="B" />
+			<qualification type="GCSE" subject="English Language" grade="C" />
+			<qualification type="GCSE" subject="English Literature" grade="C" />
+			<qualification type="GCSE" subject="French" grade="C" />
+			<qualification type="GCSE" subject="History" grade="C" />
+			<qualification type="GCSE" subject="Art" grade="D" />
+		</highSchool>
+		<other>Full UK Driving Licence</other>
+	</qualifications>
+  	<skills>
+		<skillset name="languages and technologies">
+			<skill>PHP</skill>
+			<skill>HTML5</skill>
+			<skill>JavaScript</skill>
+			<skill>CSS3</skill>
+			<skill>MySQL</skill>
+			<skill>Python</skill>
+			<skill>Apache</skill>
+			<skill>Git</skill>
+			<skill>XML</skill>
+			<skill>XSLT</skill>
+			<skill>Linux</skill>
+			<skill>Bash</skill>
+			<skill>SSH</skill>
+			<skill>FTP</skill>
+			<skill>Java</skill>
+		</skillset>
+		<skillset name="platforms">
+			<skill>Magento</skill>
+			<skill>Django</skill>
+			<skill>Zend</skill>
+			<skill>Wordpress</skill>
+			<skill>PHPUnit</skill>
+			<skill>Android SDK</skill>
+			<skill>Codeigniter</skill>
+			<skill>Facebook API</skill>
+			<skill>Google Maps</skill>
+			<skill>PayPal</skill>
+			<skill>DataCash payment gateway</skill>
+		</skillset>
+		<skillset name="casual interest">
+			<skill>Adobe Photoshop and Illustrator</skill>
+			<skill>MatLab</skill>
+			<skill>Maple Mathematics Simulation</skill>
+			<skill>Windows</skill>
+			<skill>Mac OSx</skill>
+			<skill>Microsoft Office</skill>
+			<skill>MS Excel VBA</skill>
+		</skillset>
+		<skillset name="languages">
+			<skill>French Intermediate</skill>
+		</skillset>
+	</skills>
+	<experience>
+		<employment from="01/2012" to="10/2012">
+			<title>Junior Developer</title>
+			<company>Couturelab.com and Giftlab.com</company>
+			<roles>
+				<role>
+					Writing PHP, JavaScript, Linux Shell, MySQL, HTML,
+					CSS for frontend and backend systems
+				</role>
+				<role>Respecting coding guidelines and best practices</role>
+				<role>
+					Managing the transfer of data (customer records, product information,
+					images etc.) between systems, such as a daily transfer between the
+					stock tracking system and Magento.
+				</role>
+				<role>Writing and installing Magento modules, widgets and helpers</role>
+				<role>General Magento configuration and modifications</role>
+				<role>Using Git version control and gitolite to keep good code history</role>
+				<role>'Agile' development methodology</role>
+				<role>Helping staff with any technical problems</role>
+				<role>Fixing bugs in existing code</role>
+				<role>Frontend and backend development</role>
+				<role>Liaising with external developers, communicating feedback and bug reports</role>
+				<role>Implementing designs from PSD format</role>
+				<role>Fixing bugs in existing code</role>
+      				<role>
+					Meeting with non-technical project management to discuss what is possible and
+					estimate time for development
+				</role>
+			</roles>
+		</employment>
+		<selfEducation from="01/2010" to="01/2011">
+			<activity>Self taught web development</activity>
+			<activity>travel</activity>
+		</selfEducation>
+  		<employment from="10/2010" to="01/2011">
+			<title>Systems Administrator (Temporary)</title>
+			<company>Loughborough University HR Department</company>
+			<roles>
+				<role>Using databases to reorganise personnel records</role>
+				<role>Created automated excel scripts to speed up productivity</role>
+			</roles>
+		</employment>
+		<employment from="10/2007" to="06/2010">
+			<title>Recording Technician</title>
+			<company>Aura Studios, Loughborough University</company>
+			<roles>
+				<role>Recording various groups or individual artists</role>
+				<role>Use of many industry standard audio recording programs</role>
+				<role>Head of live sound production for Loughborough University Media Centre</role>
+				<role>Helping to organise concerts and musical events</role>
+				<role>In charge of training new audio engineers</role>
+			</roles>
+		</employment>
+		<internship from="06/2009" to="09/2009">
+			<title>Research and Development Intern</title>
+			<company>Decagon Devices (USA)</company>
+			<roles>
+				<role>Improving the firmware for thermal conductivity sensor (KD2-pro)</role>
+				<role>
+					Researching thermal measurement methods, designing experiments, reporting 
+					results to the research and development team.
+				</role>
+				<role>Mathematical modelling and C++ programming</role>
+				<role>Bringing new ideas and working with a team</role>
+				<role>Ability to work independently and use initiative</role>
+				<role>Decision making</role>
+				<role>Organisation</role>
+				<role>Complex problem solving</role>
+				<role>
+					Built experimental apparatus for finding the thermal conductivity of test materials
+				</role>
+				<role>Improve the accuracy of the KD2-pro sensor</role>
+			</roles>
+		</internship>
+	</experience>
+</cv>
