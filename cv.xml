@@ -13,7 +13,7 @@
 			<year>1989</year>
 		</dateOfBirth>
 		<interests>
-    			<interest>Photography</interest>
+			<interest>Photography</interest>
 			<interest>Music</interest>
 			<interest>Travel</interest>
 			<interest>Open Source projects</interest>
@@ -41,7 +41,7 @@
 		</highSchool>
 		<other>Full UK Driving Licence</other>
 	</qualifications>
-  	<skills>
+	<skills>
 		<skillset name="languages and technologies">
 			<skill>PHP</skill>
 			<skill>HTML5</skill>
@@ -130,7 +130,7 @@
 				<role>Liaising with external developers, communicating feedback and bug reports</role>
 				<role>Implementing designs from PSD format</role>
 				<role>Fixing bugs in existing code</role>
-      				<role>
+				<role>
 					Meeting with non-technical project management to discuss what is possible and
 					estimate time for development
 				</role>
@@ -140,7 +140,7 @@
 			<activity>Self taught web development</activity>
 			<activity>travel</activity>
 		</selfEducation>
-  		<employment from="10/2010" to="01/2011">
+		<employment from="10/2010" to="01/2011">
 			<title>Systems Administrator (Temporary)</title>
 			<company>Loughborough University HR Department</company>
 			<roles>
