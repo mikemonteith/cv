@@ -88,7 +88,15 @@
 		</skillset>
 	</skills>
 	<experience>
-		<employment from="12/2012" to="present">
+		<employment from="05/2015" to="present">
+			<title>Web and mobile app developer</title>
+			<company>*Self employed*</company>
+			<roles>
+				<role>Web consultancy and development</role>
+				<role>Mobile app consultancy and development</role>
+			</roles>
+		</employment>
+		<employment from="12/2012" to="05/2015">
 			<title from="12/2012" to="08/14">Technical Developer</title>
 			<title from="08/2014" to="present">Technical Lead</title>
 			<company>Movement Digital Ltd.</company>
