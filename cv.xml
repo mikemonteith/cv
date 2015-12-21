@@ -43,23 +43,29 @@
 	</qualifications>
 	<skills>
 		<skillset name="languages and technologies">
+			<skill>NodeJS</skill>
+			<skill>Swift</skill>
 			<skill>PHP</skill>
 			<skill>HTML5</skill>
 			<skill>JavaScript</skill>
 			<skill>CSS3</skill>
+			<skill>Object Oriented Programming</skill>
+			<skill>React</skill>
+			<skill>Sass</skill>
+			<skill>Compass</skill>
 			<skill>MySQL</skill>
 			<skill>Python</skill>
 			<skill>Apache</skill>
 			<skill>Git</skill>
-			<skill>XML</skill>
-			<skill>XSLT</skill>
 			<skill>Linux</skill>
 			<skill>Bash</skill>
 			<skill>SSH</skill>
-			<skill>FTP</skill>
 			<skill>Java</skill>
 		</skillset>
 		<skillset name="platforms">
+			<skill>iOS</skill>
+			<skill>Android</skill>
+			<skill>Yii</skill>
 			<skill>Magento</skill>
 			<skill>Django</skill>
 			<skill>Amazon Web Services</skill>
@@ -76,19 +82,15 @@
 		<skillset name="casual interest">
 			<skill>Adobe Photoshop and Illustrator</skill>
 			<skill>MatLab</skill>
-			<skill>Maple Mathematics Simulation</skill>
-			<skill>Windows</skill>
-			<skill>Mac OSx</skill>
-			<skill>Microsoft Office</skill>
-			<skill>MS Excel VBA</skill>
 		</skillset>
-		<skillset name="languages">
+		<skillset name="human languages">
 			<skill>French Intermediate</skill>
 		</skillset>
 	</skills>
 	<experience>
 		<employment from="12/2012" to="present">
-			<title>Technical Developer</title>
+			<title from="12/2012" to="08/14">Technical Developer</title>
+			<title from="08/2014" to="present">Technical Lead</title>
 			<company>Movement Digital Ltd.</company>
 			<companyType>Mobile Marketing Agency</companyType>
 			<roles>
@@ -125,7 +127,6 @@
 				<role>Using Git version control and gitolite to keep good code history</role>
 				<role>'Agile' development methodology</role>
 				<role>Helping staff with any technical problems</role>
-				<role>Fixing bugs in existing code</role>
 				<role>Frontend and backend development</role>
 				<role>Liaising with external developers, communicating feedback and bug reports</role>
 				<role>Implementing designs from PSD format</role>
